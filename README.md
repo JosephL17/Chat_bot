@@ -4,7 +4,7 @@ This project is a simple chatbot application that utilizes the 8B model of LLaMA
 
 ## Project Structure
 
-- **Frontend**: Built with React and JavaScript
+- **Frontend**: Built with React/Vite and TailwindCSS
 - **Backend**: Built with Flask and Python
 - **Model**: LLaMA3 (8B model)
 
@@ -18,7 +18,7 @@ This project is a simple chatbot application that utilizes the 8B model of LLaMA
 
 Make sure you have the following installed:
 
-- Node.js (for React)
+- Node.js (for React/Vite)
 - Python 3.7+ (for Flask)
 - Pip (Python package manager)
 - An environment for running LLaMA3 (e.g., a GPU or suitable hardware for large model inference)
